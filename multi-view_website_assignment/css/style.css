@@ -21,11 +21,6 @@ color: black;
     margin-top: 80px;
 }
 
-.student-details .profile-info {
-    float: left;
-    display: inline-block;
-}
-
 .profile-info, .profile-categories {
     font-size: 1.2em;
 }
