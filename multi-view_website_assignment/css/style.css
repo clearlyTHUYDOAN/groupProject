@@ -23,5 +23,5 @@ color: black;
 
 .student-details .profile-info {
     float: left;
-    display: block;
+    display: inline-block;
 }
