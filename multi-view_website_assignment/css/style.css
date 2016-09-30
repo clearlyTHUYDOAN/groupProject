@@ -10,16 +10,18 @@ body {
 }
 .profilePhoto {
     width:100%;
+    border-radius: 5px;
 }
 .subHeader {
 font-family: 'ABeeZee';
 color: black;
 }
 
-/*.container {
-    overflow: auto;
-}*/
+.row {
+    margin-top: 80px;
+}
 
-/*.student-details {
+.student-details .profile-info {
     float: left;
-}*/
+    display: block;
+}
